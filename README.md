@@ -21,3 +21,15 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 
 ### Augaben
 * [Aufgabe Recommender System](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_2/Assignment_2_recommender.ipynb)
+
+## Woche 3
+
+### Vorlesung
+* [Tensor Algebra](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Tensor_Algebra.ipynb)
+
+### Labor
+* [Introduction to Surprise](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Surprise.ipynb) 
+
+### Aufgaben 
+* [Aufgabe NumPy](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Assignment_3_numpy.ipynb)
+
