@@ -33,3 +33,20 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 ### Aufgaben 
 * [Aufgabe NumPy](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Assignment_3_numpy.ipynb)
 
+## Woche 4
+
+### Vorlesung
+* [Basic Statistics](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Basic_Statistics.ipynb)
+* [Data Wrangling](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Data_Wrangling.ipynb)
+
+### Labor
+* [Pandas: Intro](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Lab_01_pandas_Intro.ipynb)
+* [Pandas: DataFrames](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Lab_02_pandas_DataFrame.ipynb)
+* [Pandas: IO](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Lab_03_pandas_IO.ipynb)
+* [Pandas: Missing Dtata](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Lab_04_pandas_MissingData.ipynb)
+
+
+### Augaben
+* [Assignment 1](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Assignment_1.ipynb) 
+* [Assignment 2](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Assignment_3.ipynb)
+  
