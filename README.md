@@ -44,6 +44,7 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * [Pandas: DataFrames](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Lab_02_pandas_DataFrame.ipynb)
 * [Pandas: IO](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Lab_03_pandas_IO.ipynb)
 * [Pandas: Missing Dtata](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Lab_04_pandas_MissingData.ipynb)
+* [Panday: GroupBy](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Lab_05_pandas_Group_by.ipynb)
 
 
 ### Augaben
