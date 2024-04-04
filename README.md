@@ -32,7 +32,7 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * [Introduction to Surprise](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Surprise.ipynb) 
 
 ### Aufgaben 
-* [Aufgabe NumPy](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Assignment_3_numpy.ipynb)
+* [Aufgabe NumPy](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Assignment_3_numpy.ipynb)->[Lösung](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Solution_Aufgabe_NumPy.ipynb)
 
 ## Woche 4
 
