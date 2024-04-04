@@ -13,7 +13,8 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 ## Woche 2
 
 ### Vorlesung
-* [Use Case Movie Recommender](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_2/UseCase_RecommendationSystems.ipynb)
+* [Use Case Movie Recommender](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_2/UseCase_RecommendationSystems.ipynb)->[Lösung](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_2/Assignment_2_solution.ipynb)
+
 
 ### Labor
 * [Colab/Jupyter Tutorial: Jupyter](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_2/00_Jupyter-Intro.ipynb)
