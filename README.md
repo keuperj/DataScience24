@@ -51,4 +51,18 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 ### Augaben
 * [Assignment 1](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Assignment_1.ipynb) 
 * [Assignment 2](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Assignment_3.ipynb)
-  
+
+
+## Woche 5
+
+### Vorlesung
+* [Statistics II](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Statistics_Part_II.ipynb)
+
+### Labor
+* [Labor Vortrag: GroupBy](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/GroupBy.ipynb)
+* [Labor Aufgabe: GroupBy](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Lab_05_pandas_Group_by.ipynb)
+* [Labor Aufgabe: Merge + Join](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Lab_06_pandas_MergeandJoin.ipynb)
+* [Labor Aufgabe: Reschape](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Lab_07_pandas_reshape.ipynb)
+
+### Aufgaben
+* [Assignment](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Assignment.ipynb)
