@@ -49,8 +49,8 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 
 
 ### Augaben
-* [Assignment 1](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Assignment_1.ipynb) 
-* [Assignment 2](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Assignment_3.ipynb)
+* [Assignment 1](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Assignment_1.ipynb) -> [Lösung](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/solution_1.ipynb)
+* [Assignment 2](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Assignment_3.ipynb) -> [Lösung](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/solution_3.ipynb)
 
 
 ## Woche 5
