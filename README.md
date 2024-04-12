@@ -66,3 +66,17 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 
 ### Aufgaben
 * [Assignment](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Assignment.ipynb)
+
+# Woche 6
+
+### Vorlesung
+* keine interaktiven Inhalte
+
+### Labor
+* [MatPlotLib](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_6/Lab_Matplotlib-Intro.ipynb)
+* [Scikit-Learn](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_6/Scikit_Learn.ipynb)
+
+### Aufgaben
+* [Assignment MatPlotLib](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_6/Assignment_MatplotLib.ipynb)
+* [Assignment Bayes](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_6/Assignment_Classification.ipynb) 
+
