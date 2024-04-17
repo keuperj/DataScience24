@@ -6,11 +6,16 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * Speichern Sie ihre Ergebnisse/Code in *Colab* über *download*, *save to google drive* oder *push to github*
 * Ein **Colab Tutorial** finden Sie [hier](https://colab.research.google.com/)
 
-## Woche 1 - Python 
+
+<details>
+<summary> <H2> Woche 1 - Python </H2><BR></summary>
+
 * [Online Kurs](https://elearning.hs-offenburg.de/moodle/course/view.php?id=6551)
 * [Abschluss Test](https://elearning.hs-offenburg.de/moodle/mod/quiz/view.php?id=344672)
 
-## Woche 2
+</details>
+<details>
+<summary> <H2> Woche 2 - Recommender Systems </H2><BR></summary>
 
 ### Vorlesung
 * [Use Case Movie Recommender](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_2/UseCase_RecommendationSystems.ipynb)->[Lösung](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_2/Assignment_2_solution.ipynb)
@@ -23,7 +28,9 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 ### Augaben
 * [Aufgabe Recommender System](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_2/Assignment_2_recommender.ipynb)
 
-## Woche 3
+</details>
+<details>
+<summary> <H2> Woche 3 - Tensor Algebra </H2><BR></summary>
 
 ### Vorlesung
 * [Tensor Algebra](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Tensor_Algebra.ipynb)
@@ -34,7 +41,10 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 ### Aufgaben 
 * [Aufgabe NumPy](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Assignment_3_numpy.ipynb)->[Lösung](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_3/Solution_Aufgabe_NumPy.ipynb)
 
-## Woche 4
+</details>
+<details>
+<summary> <H2> Woche 4 - Data Wrangling </H2><BR></summary>
+
 
 ### Vorlesung
 * [Basic Statistics](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Basic_Statistics.ipynb)
@@ -53,7 +63,10 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * [Assignment 2](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/Assignment_3.ipynb) -> [Lösung](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_4/solution_3.ipynb)
 
 
-## Woche 5
+</details>
+<details>
+<summary> <H2> Woche 5 - Einführung ML </H2><BR></summary>
+
 
 ### Vorlesung
 * [Statistics II](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Statistics_Part_II.ipynb)
@@ -66,6 +79,8 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 
 ### Aufgaben
 * [Assignment](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Assignment.ipynb)
+
+</details>
 
 # Woche 6
 
