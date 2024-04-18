@@ -78,7 +78,7 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * [Labor Aufgabe: Reschape](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Lab_07_pandas_reshape.ipynb)
 
 ### Aufgaben
-* [Assignment](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Assignment.ipynb)
+* [Assignment](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/Assignment.ipynb) > [Lösung](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_5/solution.ipynb)
 
 </details>
 
