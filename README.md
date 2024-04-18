@@ -82,7 +82,8 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 
 </details>
 
-# Woche 6
+<details>
+<summary> <H2> Woche 6 - Lineare Modelle </H2><BR></summary>
 
 ### Vorlesung
 * keine interaktiven Inhalte
@@ -95,3 +96,13 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * [Assignment MatPlotLib](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_6/Assignment_MatplotLib.ipynb)
 * [Assignment Bayes](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_6/Assignment_Classification.ipynb) 
 
+</details>
+
+## Woche 7
+
+### Vorlesung
+* keine interaktiven Inhalte
+
+### Aufgaben
+* [Assignment Classifier](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Classification.ipynb)  
+* [Assignment Regression](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Regression_NY_Taxy.ipynb)
