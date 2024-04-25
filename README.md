@@ -98,7 +98,7 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 
 </details>
 <details>
-<summary> <H2> Woche 7 </H2><BR></summary>
+<summary> <H2> Woche 7- Nicht-Lineare Modelle </H2><BR></summary>
 
 ### Vorlesung
 * keine interaktiven Inhalte
