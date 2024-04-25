@@ -104,5 +104,5 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * keine interaktiven Inhalte
 
 ### Aufgaben
-* [Assignment Classifier](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Classification.ipynb)  
-* [Assignment Regression](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Regression_NY_Taxy.ipynb)
+* [Assignment Classifier](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Classification.ipynb)  -> [solution](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Classification_solution.ipynb)
+* [Assignment Regression](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Regression_NY_Taxy.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Regression_NY_Taxi_solution.ipynb)
