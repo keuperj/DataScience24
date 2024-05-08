@@ -114,5 +114,5 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * keine interaktiven Inhalte
 
 ### Aufgaben
-* [Assignment Non-Linear Classifier](https://colab.research.google.com/github/keuperj/DataScience23/blob/main/week_8/Non-Linear_Classification.ipynb) 
-* [Assignment Automatic Hyper Paramter Seach](https://colab.research.google.com/github/keuperj/DataScience23/blob/main/week_8/AutoSkLearn_Regression_NY_Taxy.ipynb) 
+* [Assignment Non-Linear Classifier](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/Non-Linear_Classification.ipynb) 
+* [Assignment Automatic Hyper Paramter Seach](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/AutoSkLearn_Regression_NY_Taxy.ipynb) 
