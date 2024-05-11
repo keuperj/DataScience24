@@ -108,11 +108,22 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * [Assignment Regression](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Regression_NY_Taxy.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_7/Regression_NY_Taxi_solution.ipynb)
   
 </details>
+<details>
+<summary> <H2> Woche 8- Outlier Detection </H2><BR></summary>
 
-## Woche 8
 ### Vorlesung
 * keine interaktiven Inhalte
 
 ### Aufgaben
 * [Assignment Non-Linear Classifier](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/Non-Linear_Classification.ipynb) 
-* [Assignment Automatic Hyper Paramter Seach](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/AutoSkLearn_Regression_NY_Taxy.ipynb) 
+* [Assignment Automatic Hyper Paramter Seach](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/AutoSkLearn_Regression_NY_Taxy.ipynb)
+
+</details>
+
+## Woche 9
+### Labor
+* [Introduction to Keras](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/keras_intro.ipynb)
+
+### Aufgaben
+* [Keras NN for MNIST](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/keras_NN_classification.ipynb)
+  
