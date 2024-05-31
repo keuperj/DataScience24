@@ -120,10 +120,17 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 
 </details>
 
-## Woche 9
+<details>
+<summary> <H2> Woche 9 - Deep Learning </H2><BR></summary>
+
 ### Labor
 * [Introduction to Keras](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/keras_intro.ipynb)
 
 ### Aufgaben
 * [Keras NN for MNIST](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/keras_NN_classification.ipynb)
   
+</details>
+
+## Woche 10
+### Aufgaben
+* [Assignment: Cifar10 with CNNs](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_10/Assignment_CNNs.ipynb)
