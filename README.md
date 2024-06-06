@@ -115,8 +115,8 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * keine interaktiven Inhalte
 
 ### Aufgaben
-* [Assignment Non-Linear Classifier](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/Non-Linear_Classification.ipynb) 
-* [Assignment Automatic Hyper Paramter Seach](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/AutoSkLearn_Regression_NY_Taxy.ipynb)
+* [Assignment Non-Linear Classifier](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/Non-Linear_Classification.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/Non-Linear_Classification_solution.ipynb)
+* [Assignment Automatic Hyper Paramter Seach](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/AutoSkLearn_Regression_NY_Taxy.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_8/AutoSkLearn_Regression_NY_Taxy_solution.ipynb)
 
 </details>
 
@@ -127,7 +127,7 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * [Introduction to Keras](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/keras_intro.ipynb)
 
 ### Aufgaben
-* [Keras NN for MNIST](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/keras_NN_classification.ipynb)
+* [Keras NN for MNIST](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/keras_NN_classification.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/solution_keras_NN_classification.ipynb)
   
 </details>
 
