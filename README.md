@@ -130,7 +130,21 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 * [Keras NN for MNIST](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/keras_NN_classification.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_9/solution_keras_NN_classification.ipynb)
   
 </details>
+<details>
+<summary> <H2> Woche 10- Deep Learning Part 2 </H2><BR></summary>
 
 ## Woche 10
 ### Aufgaben
 * [Assignment: Cifar10 with CNNs](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_10/Assignment_CNNs.ipynb)
+
+</details>
+
+## Woche 11
+### Labor
+* [AutoEncoder with Keras](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_11/KERAS_autoencoder.ipynb)
+* [collaborative filtering with Keras](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_11/KERAS_collaborative_filtering_movielens.ipynb)
+### Aufgabe
+* [Movielense with TensorFlow Recommenders](https://colab.research.google.com/github/keuperj/DataScience24/blob/main/week_11/TF_Rec_Example.ipynb) -
+
+## Woche 12+13
+* Arbeiten am Projekt
