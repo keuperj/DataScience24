@@ -155,7 +155,7 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 
 ## Tools
 * [Verarbeitung von Geo-Daten mit GeoPandas](https://geopandas.org/en/stable/index.html)
-* [Interaktive Visualisierung von Geo-Daten mit Folium][https://python-visualization.github.io/folium/latest/index.html]
+* [Interaktive Visualisierung von Geo-Daten mit Folium](https://python-visualization.github.io/folium/latest/index.html)
 * [Berechnung von Wegstrecken mit OpenStreetMap (OSM)](https://osmnx.readthedocs.io/en/stable/#installation)
 * [Arbeiten mit Zeitdaten (kann auch Feiertage) mit Pandas](http://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
   
