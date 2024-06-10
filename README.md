@@ -148,3 +148,16 @@ Material zur Vorlesung + Labor Data Science an der HSO im SS24
 
 ## Woche 12+13
 * Arbeiten am Projekt
+
+# Projekt
+
+## [Link zum Kaggle Challenge](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview) 
+
+## Tools
+* [Verarbeitung von Geo-Daten mit GeoPandas](https://geopandas.org/en/stable/index.html)
+* [Interaktive Visualisierung von Geo-Daten mit Folium][https://python-visualization.github.io/folium/latest/index.html]
+* [Berechnung von Wegstrecken mit OpenStreetMap (OSM)](https://osmnx.readthedocs.io/en/stable/#installation)
+* [Arbeiten mit Zeitdaten (kann auch Feiertage) mit Pandas](http://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
+  
+## Extra Daten Quellen
+* [Historische Wetterdaten für Orte](https://meteostat.net/en/blog/obtain-weather-data-any-location-python)
